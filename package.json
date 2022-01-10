@@ -1,0 +1,18 @@
+{
+  "name": "pdfcreater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^13.0.1",
+    "voilab-pdf-table": "^0.5.1"
+  }
+}

@@ -1,0 +1,936 @@
+[
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 351,
+        "vehicle": 366,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "21",
+            "driverName": "Neil Alphanso Darby"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5cf353fdca18a4141f7a6",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 434,
+        "vehicle": 369,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/03858330-6e85-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "passenger_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/088e9330-6e85-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "19610",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/0da14020-6e85-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": false,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": null,
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/fee7df30-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "24",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": "50",
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/fb514af0-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            }
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d0313fdca18a4143789e",
+        "completion": 100,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 394,
+        "vehicle": 351,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/bd088d10-6e86-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "passenger_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/b1c4cae0-6e86-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "13755",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/c331b310-6e86-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": false,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": "Deshawn Anthony Lykes",
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/b77b31e0-6e86-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "6",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": 50,
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/ac3ee9c0-6e86-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            }
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d03e3fdca18a41438e5a",
+        "completion": 100,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 420,
+        "vehicle": 362,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "17",
+            "driverName": "Kenny Zeng"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d04d3fdca18a4143aa5e",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 577,
+        "vehicle": 350,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/8b3dbbe0-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "passenger_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/9095d640-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "10124",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/95e39060-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": true,
+                "metadata": {
+                    "amount": "Yes"
+                }
+            },
+            "driverName": "Erika Mercado",
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/83e082b0-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "5",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": 100,
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/7e3f7870-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            }
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d05c3fdca18a4143c152",
+        "completion": 100,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 377,
+        "vehicle": 347,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "clean": {
+                "answer": true
+            },
+            "mileage": "22279",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    ""
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": true,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": "Nghia Trong Lam",
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    ""
+                ]
+            },
+            "VehicleName": "1",
+            "engine_light": {
+                "answer": true
+            },
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    ""
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            },
+            "returnTime": "18:00"
+        },
+        "__v": 0,
+        "added_by": 177,
+        "_id": "61d5d06f3fdca18a4143e2eb",
+        "completion": 80,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 355,
+        "vehicle": 359,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "14",
+            "driverName": "Bejamin Nelson"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d07d3fdca18a4143f805",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 414,
+        "vehicle": 373,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/c7711c60-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "passenger_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/d0944880-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "10294",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/d6427220-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": false,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": "Eriberto Cohetero",
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/beadc380-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "28",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": 100,
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/b959c7d0-6e84-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            }
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d0893fdca18a41440aea",
+        "completion": 100,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 359,
+        "vehicle": 348,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "3",
+            "driverName": "Jose Gonzalez"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d09e3fdca18a41442a06",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 359,
+        "vehicle": 384,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "39",
+            "driverName": "Jose Gonzalez"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1013fdca18a4144cce0",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 378,
+        "vehicle": 382,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "37",
+            "driverName": "Sunair Sohail"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d10f3fdca18a4144e45b",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 402,
+        "vehicle": 352,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "7",
+            "driverName": "Marlin Miguelina Burgos"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d11a3fdca18a4144f983",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 360,
+        "vehicle": 372,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/1a0cf5a0-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "passenger_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/107cd6e0-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "15726",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/14fb0c00-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": false,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": null,
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/203c8440-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "27",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": 75,
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/0a9e2760-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            }
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1243fdca18a41450adc",
+        "completion": 100,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 389,
+        "vehicle": 370,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "25",
+            "driverName": "Moore S Tiffany"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1393fdca18a41452cff",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 578,
+        "vehicle": 379,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "34",
+            "driverName": "Victor Manuel Martinez"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1443fdca18a41453f3a",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 386,
+        "vehicle": 356,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "11",
+            "driverName": "Jose A Padilla"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d14e3fdca18a414550e2",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 357,
+        "vehicle": 357,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "12",
+            "driverName": "Aaron Richard Hernandez"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1583fdca18a41456530",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 426,
+        "vehicle": 360,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "15",
+            "driverName": "Fredi Esiquio Basurto"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d16a3fdca18a41458242",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 398,
+        "vehicle": 380,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "35",
+            "driverName": "Shavisha Niza Rosario"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d17b3fdca18a4145a02c",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 432,
+        "vehicle": 361,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/53f0c0d0-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "14509",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/4b703d50-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": false,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": null,
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/4613dd30-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "16",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": 75,
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/42688870-6e87-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            }
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1883fdca18a4145b663",
+        "completion": 94,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 344,
+        "vehicle": 355,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "10",
+            "driverName": "OMONYA ONWE"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d19c3fdca18a4145d864",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 376,
+        "vehicle": 368,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "23",
+            "driverName": "Renata Barravecchia"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1a83fdca18a4145ea4f",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 415,
+        "vehicle": 377,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/3a12fed0-6e82-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "passenger_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/3f0181f0-6e82-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "15367",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "handtruck": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/44219c60-6e82-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": false,
+                "metadata": {
+                    "amount": ""
+                }
+            },
+            "driverName": null,
+            "gas_card": {
+                "answer": false
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/31002660-6e82-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "VehicleName": "32",
+            "engine_light": {
+                "answer": true
+            },
+            "gas": 100,
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    "https://d2jilumhwuwrmw.cloudfront.net/damages/2d423400-6e82-11ec-bdbc-dda0719b6357.jpg"
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            },
+            "returnTime": "18:49"
+        },
+        "__v": 0,
+        "added_by": 177,
+        "_id": "61d5d1b93fdca18a4146021a",
+        "completion": 100,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 418,
+        "vehicle": 381,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "36",
+            "driverName": "Robert Walker"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1c53fdca18a414613fa",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 532,
+        "vehicle": 364,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "19",
+            "driverName": "Khimahni Santiago Lewis "
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d1d63fdca18a41462ce2",
+        "completion": 0,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 763,
+        "vehicle": 371,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "rear_view": {
+                "answer": true,
+                "attachment": [
+                    ""
+                ]
+            },
+            "clean": {
+                "answer": true
+            },
+            "mileage": "15132",
+            "phone_charger": {
+                "answer": true
+            },
+            "phone": {
+                "answer": true
+            },
+            "parking_ticket": {
+                "answer": false
+            },
+            "rescue": {
+                "answer": true,
+                "metadata": {
+                    "amount": "Yes"
+                }
+            },
+            "driverName": "Oleh Ukrayinets",
+            "gas_card": {
+                "answer": true
+            },
+            "driver_side_view": {
+                "answer": true,
+                "attachment": [
+                    ""
+                ]
+            },
+            "VehicleName": "26",
+            "engine_light": {
+                "answer": true
+            },
+            "front_view": {
+                "answer": true,
+                "attachment": [
+                    ""
+                ]
+            },
+            "windshield_fluid": {
+                "answer": true
+            },
+            "returnTime": "17:29"
+        },
+        "__v": 0,
+        "added_by": 177,
+        "_id": "61d5d1ea3fdca18a41464a6b",
+        "completion": 80,
+        "company": 62
+    },
+    {
+        "is_deleted": false,
+        "inspection_id": "fb1a54b0-6e3d-11ec-bdbc-dda0719b6357",
+        "driver": 388,
+        "vehicle": 349,
+        "date": "2022-01-05T00:00:00.000Z",
+        "inspection_form": {
+            "VehicleName": "4",
+            "driverName": "George Joseph Headrick"
+        },
+        "__v": 0,
+        "added_by": 176,
+        "_id": "61d5d2123fdca18a41468a29",
+        "completion": 0,
+        "company": 62
+    }
+]
